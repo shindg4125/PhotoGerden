@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa525ac8ff97b34596647db36d3fc35, type: 3}
+  m_Name: NPC3 Dialog Data
+  m_EditorClassIdentifier: 
+  node:
+  - Name: NPC3
+    Dialog: "\uC624\uB298 \uD574\uBCC0\uC5D0\uC11C \uB2E4 \uAC19\uC774 \uB180\uAE30\uB85C
+      \uD55C \uAC70 \uAE30\uC5B5\uD558\uC9C0?"
+  - Name: NPC3
+    Dialog: "\uADF8\uB0E5 \uB178\uB294 \uAC83\uBCF4\uB2E8 \uBB54\uAC00 \uC774\uBCA4\uD2B8\uAC00
+      \uC788\uC73C\uBA74 \uC88B\uC744 \uAC83 \uAC19\uC544\uC11C \uBCF4\uBB3C\uCC3E\uAE30\uB97C
+      \uC900\uBE44\uD588\uC5B4."
+  - Name: NPC3
+    Dialog: "\uC9C0\uC218\uAC00 \uBB3C\uAC74 \uC815\uB9AC\uD558\uACE0 \uC788\uC73C\uB2C8\uAE4C
+      \uBA3C\uC800 \uAC00\uC11C \uB3C4\uC640\uC918."
+  - Name: NPC3
+    Dialog: "\uD558\uD558 \uC9C0\uC218\uAC00 \uD55C\uCC38 \uC804\uBD80\uD130 \uC900\uBE44\uD574
+      \uB1A8\uC5C8\uC5B4"
+  - Name: NPC3
+    Dialog: "\uAE30\uB300\uAC00 \uB41C\uB2E4\uB098?"
+  - Name: NPC3
+    Dialog: "\uC5B4\uCA0C\uB4E0, \uC5BC\uB978 \uAC00\uBCF4\uB294\uAC8C \uC88B\uC744
+      \uAC70\uC57C"
+  canDialog: 0
